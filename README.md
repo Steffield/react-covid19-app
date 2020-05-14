@@ -1,68 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID-19 Tracker
 
-## Available Scripts
+## Table of Content
 
-In the project directory, you can run:
+* [User Story](#User)
 
-### `yarn start`
+* [Description](#Description)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [Technologies Used](#Technologies-Used)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+* [Credits](#Credits)
 
-### `yarn test`
+* [Installation](#Installation)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Deployed Link](#Deployed)
 
-### `yarn build`
+## User Story
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+As a user, I want to be able to see the most current COVID-19 statistics globally or filtered by country so that I can stay up to date and see if the numbers are going down.
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Description
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This application was created by following this well done video from <a href="https://www.youtube.com/watch?v=khJlrj3Y6Ls"> JavaScript Mastery</a>. I recreated his application to further practice the use of React.js, the use of Hooks and to get an introduction to Material UI, while doing an interesting project.
 
-### `yarn eject`
+## Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+The used technologies include react.js and the packages react-dom, chart.js, react-chartjs-2, react-countup, axios, and @material-ui/core. The third party API is https://covid19.mathdro.id/api
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Apart from some design changes and minimal set up changes the application was created by the github user <a href="https://github.com/adrianhajdin">adrianhajdin</a> and done by following his youTube Video, which is linked above. It was very helpful and I can recommend it for React beginners.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Installation
 
-## Learn More
+Git pull or clone and run the following command to start:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+    npm start
+``` 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Deployed Link:
 
-### Code Splitting
+The deployed link to Github Pages: <a href="https://steffield.github.io/react-covid19-app/">Covid-19 Tracker</a>.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+![](COVID19.png)
 
-### Analyzing the Bundle Size
+## Questions
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+If you have any questions about the repo, open an issue.
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<img src="https://avatars0.githubusercontent.com/u/56233744?v=4" width ="70px" height="70px"> 

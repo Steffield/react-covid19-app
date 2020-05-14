@@ -1,0 +1,12 @@
+.formControl{
+  width: 30%;
+  margin-bottom: 30px !important;
+}
+
+.select{
+  border: 5px solid transparent;
+  border-image: linear-gradient(to left, rgba(104,143,175,.5), rgba(255,0,0,.5));
+  border-image-slice: 1;
+  background-color: white;
+}
+

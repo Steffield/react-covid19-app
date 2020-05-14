@@ -1,0 +1,17 @@
+.container{
+  display: flex;
+  justify-content: center;
+  width: 85%
+}
+
+canvas{
+  border: 5px solid rgba(104,143,175,.5);
+  /* border-image: linear-gradient(to left, rgba(104,143,175,.5), whitesmoke);
+  border-image-slice: 1; */
+}
+
+@media (max-width:770px){
+  .container{
+    width: 100%
+  }
+}
