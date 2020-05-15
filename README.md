@@ -30,7 +30,7 @@ The used technologies include react.js and the packages react-dom, chart.js, rea
 
 ## Credits
 
-Apart from some design changes and minimal set up changes the application was created by the github user <a href="https://github.com/adrianhajdin">adrianhajdin</a> and done by following his youTube Video, which is linked above. It was very helpful and I can recommend it for React beginners.
+Apart from some design changes and minimal set up changes the application was originally created by the github user <a href="https://github.com/adrianhajdin">adrianhajdin</a> and done by following his youTube Video, which is linked above. It was very helpful and I can recommend it for React beginners.
 
 ## Installation
 
